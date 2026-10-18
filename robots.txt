@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hiuiwb.github.io/sitemap.xml
+Sitemap: https://hiwwb.github.io/sitemap.xml
